@@ -79,6 +79,9 @@
   line-height: 1.2;
   font-family: var(--heading-font);
 }
+.nav-link{
+  cursor: pointer;
+}
 
 .hero-text {
   margin-top: 0;
